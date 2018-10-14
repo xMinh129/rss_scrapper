@@ -1,0 +1,19 @@
+{
+  "name": "rss_scrapper",
+  "version": "1.0.0",
+  "description": "RSS Feed Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minh Vu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "dom-parser": "^0.1.5",
+    "fs": "0.0.1-security",
+    "node-html-parser": "^1.1.10",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
